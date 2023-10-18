@@ -7,12 +7,12 @@
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
-- Taking online courses Machine Learning 
+- Internship at a tech company
 -  🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Coding at least 4 hours a day
-- Exercising 5 days a week
+- Exercising 3～4 days a week
 
 #### :computer: Programming languages and tools: 
 <p>
