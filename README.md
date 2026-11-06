@@ -6,8 +6,8 @@
 </em></p>
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Internship at a tech company
+- Teaching at school
+- Collaborating on a project with other scholars
 -  🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
