@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3300&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+AI+that+learns+from+limited+data;Computer+Vision+%7C+Remote+Sensing;Deep+Learning+%7C+LLM+Agents;Research+%E2%86%92+Code+%E2%86%92+Real-world+Impact" alt="Typing introduction" />
 
-<p>
-  <a href="https://github.com/LealO-O?tab=followers"><img src="https://img.shields.io/github/followers/LealO-O?label=Followers&style=flat-square&color=0ea5e9" alt="Followers" /></a>
-  <a href="https://github.com/LealO-O"><img src="https://komarev.com/ghpvc/?username=LealO-O&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile views" /></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Research-0f766e?style=flat-square" alt="Focus AI Research" />
-</p>
 
 </div>
 
@@ -89,16 +84,6 @@ Turning modern AI techniques into practical applications, demos, and learning ex
 
 </div>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LealO-O&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LealO-O&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LealO-O&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
 
 ## 🎯 Currently Working On
 
